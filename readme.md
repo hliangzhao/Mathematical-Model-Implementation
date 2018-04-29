@@ -1,49 +1,47 @@
 # Algorithm Implementation in Mathematical Modeling
 
 ---
-±¾ÏîÄ¿°üº¬×÷Õß±¾ÈË²ÎÓëµÄÊıÑ§½¨Ä£¾ºÈüÖĞ¡¢ËùÊ¹ÓÃµÄÏà¹ØËã·¨µÄMATLABÊµÏÖ¡£
-¾ßÌåÄÚÈİ°üÀ¨£º
+æœ¬é¡¹ç›®åŒ…å«ä½œè€…æœ¬äººå‚ä¸çš„æ•°å­¦å»ºæ¨¡ç«èµ›ä¸­ã€æ‰€ä½¿ç”¨çš„ç›¸å…³ç®—æ³•çš„MATLABå®ç°ã€‚
+å…·ä½“å†…å®¹åŒ…æ‹¬ï¼š
 
-`²ã´Î·ÖÎö·¨(AHP)`
+`å±‚æ¬¡åˆ†ææ³•(AHP)`
 
-`Ôª°û×Ô¶¯»ú(Cellular Automata)`
+`å…ƒèƒè‡ªåŠ¨æœº(Cellular Automata)`
 
-`Ä£ºıÊıÑ§Ä£ĞÍ(Fuzzy Mathematical Model`
+`æ¨¡ç³Šæ•°å­¦æ¨¡å‹(Fuzzy Mathematical Model`
 
-`Ä¿±ê¹æ»®(Goal Programming)`
+`ç›®æ ‡è§„åˆ’(Goal Programming)`
 
-`Í¼ÂÛ(Graph Theory)`
+`å›¾è®º(Graph Theory)`
 
-`»ÒÉ«ÏµÍ³½¨Ä£(Grey System)`
+`ç°è‰²ç³»ç»Ÿå»ºæ¨¡(Grey System)`
 
-`Æô·¢Ê½Ëã·¨(Heuristic Algorithm)`
+`å¯å‘å¼ç®—æ³•(Heuristic Algorithm)`
 
-`ÃâÒßËã·¨(Immune Algorithm)`
+`å…ç–«ç®—æ³•(Immune Algorithm)`
 
-`ÕûÊı¹æ»®(Integer Programming)`
+`æ•´æ•°è§„åˆ’(Integer Programming)`
 
-`¡¶MATLABÖÇÄÜËã·¨°¸Àı¡·(Intelligence Algorithm)`
+`ã€ŠMATLABæ™ºèƒ½ç®—æ³•æ¡ˆä¾‹ã€‹(Intelligence Algorithm)`
 
-`²åÖµ(Interpolation)`
+`æ’å€¼(Interpolation)`
 
-`ÏßĞÔ¹æ»®(Linear Programming)`
+`çº¿æ€§è§„åˆ’(Linear Programming)`
 
-`¶àÔª·ÖÎö(Multivarite Analysis)`
+`å¤šå…ƒåˆ†æ(Multivarite Analysis)`
 
-`Éñ¾­ÍøÂç(Neural Network)`
+`ç¥ç»ç½‘ç»œ(Neural Network)`
 
-`·ÇÏßĞÔ¹æ»®(Non Linear Programming)`
+`éçº¿æ€§è§„åˆ’(Non Linear Programming)`
 
-`³£Î¢·Ö·½³Ì(Oridinary Differential Equation)`
+`å¸¸å¾®åˆ†æ–¹ç¨‹(Oridinary Differential Equation)`
 
-`Æ«Î¢·Ö·½³Ì(Partial Differential Equation)`
+`åå¾®åˆ†æ–¹ç¨‹(Partial Differential Equation)`
 
-`Æ«×îĞ¡¶ş³Ë·¨(Partial Least Squares)`
+`åæœ€å°äºŒä¹˜æ³•(Partial Least Squares)`
 
-`¡¶Ä£Ê½Ê¶±ğÓë»úÆ÷Ñ§Ï°¡·(Pattern Recognition and Machine Learning)`
+`ã€Šæ¨¡å¼è¯†åˆ«ä¸æœºå™¨å­¦ä¹ ã€‹(Pattern Recognition and Machine Learning)`
 
-`»Ø¹é·ÖÎö(Regression Analysis)`
+`å›å½’åˆ†æ(Regression Analysis)`
 
-`Ê±¼äĞòÁĞÄ£ĞÍ(Time Series)`
-
-Ï£Íû¶Ô´ó¼ÒÓĞËù°ïÖú£¡
+`æ—¶é—´åºåˆ—æ¨¡å‹(Time Series)`

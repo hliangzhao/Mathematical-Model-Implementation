@@ -1,8 +1,7 @@
 # Algorithm Implementation in Mathematical Modeling
 
 ---
-本项目包含作者本人参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。
-具体内容包括：
+MATLAB code for classic mathematical modeling.
 
 `层次分析法(AHP)`
 
